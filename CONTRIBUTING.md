@@ -1,4 +1,4 @@
-# Contributing to The Durandal Project
+# Contributing to Durandal Inc. Projects
 
 We'd love for you to contribute to our source code and to make our projects even better than they are today! Here are the guidelines we'd like you to follow:
 
@@ -13,19 +13,19 @@ We'd love for you to contribute to our source code and to make our projects even
 
 ## <a name="coc"></a> Code of Conduct
 
-As contributors and maintainers of the Durandal Project, we pledge to respect everyone who contributes by posting issues, updating documentation, submitting pull requests, providing feedback in comments, and any other activities.
+As contributors and maintainers of Durandal Inc. projects, we pledge to respect everyone who contributes by posting issues, updating documentation, submitting pull requests, providing feedback in comments, and any other activities.
 
-Communication through any Durandal Project channels (GitHub, Gitter, mailing lists, Google+, Twitter, etc.) must be constructive and never resort to personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct.
+Communication through any Durandal Inc. channels (GitHub, Gitter, mailing lists, Google+, Twitter, etc.) must be constructive and never resort to personal attacks, trolling, public or private harassment, insults, or other unprofessional conduct.
 
-We promise to extend courtesy and respect to everyone involved in this project regardless of gender, gender identity, sexual orientation, disability, age, race, ethnicity, religion, or level of experience. We expect anyone contributing to the Durandal Project to do the same.
+We promise to extend courtesy and respect to everyone involved in this project regardless of gender, gender identity, sexual orientation, disability, age, race, ethnicity, religion, or level of experience. We expect anyone contributing to Durandal Inc. projects to do the same.
 
-If any member of the community violates this code of conduct, the maintainers of the Durandal Project may take action, removing issues, comments, and PRs or blocking accounts as deemed appropriate.
+If any member of the community violates this code of conduct, the maintainers of the Durandal Inc. projects may take action, removing issues, comments, and PRs or blocking accounts as deemed appropriate.
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please email us at conduct@bluespire.com.
 
 ## <a name="question"></a> Got a Question or Problem?
 
-If you have questions about how to use any Durandal Project library, please direct these to the Gitter Channles or StackOverflow.
+If you have questions about how to use any Durandal Inc. project library, please direct these to the Gitter Channles or StackOverflow.
 
 ## <a name="issue"></a> Found an Issue?
 If you find a bug in the source code or a mistake in the documentation, you can help us by
