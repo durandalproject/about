@@ -21,6 +21,6 @@ Copyright and related rights for sample code as defined in the project's LICENSE
 
 (d) You understand and agree that Durandal Inc. projects and Your Contributions are public and that a record of the Contributions (including all metadata and personal information You submit with them) is maintained indefinitely and may be redistributed consistent with Durandal Inc.'s policies and the requirements of the MIT license where they are relevant.
 
-(e) You are granting Your Contributions to Durandal Inc. under the terms of either the MIT open source license or the CC0 as applicable.
+(e) You are granting Your Contributions to Durandal Inc. under the terms of either the MIT open source license, the CC0 license or the repository's designated license as applicable.
 
 You can sign the CLA [here](http://goo.gl/forms/dI8QDDSyKR).
