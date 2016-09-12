@@ -7,7 +7,7 @@ You accept and agree to the following terms and conditions for Your present and 
 
 ## Licenses
 
-Durandal Inc. projects (code, documentation, and any other materials) are released under the terms of the MIT license, with the following exception:
+Durandal Inc. public projects (code, documentation, and any other materials) are released under the terms of the MIT license, with the following exception:
 
 Copyright and related rights for sample code as defined in the project's LICENSE file are waived via [CC0](http://en.wikipedia.org/wiki/CC0#Zero_.2F_Public_domain). Rights to any change to existing sample code or contribution of new code denoted as sample code as defined in the project's LICENSE file are waived via CC0.
 
