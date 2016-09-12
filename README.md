@@ -6,7 +6,7 @@ Blue Spire Inc. focuses on building libraries, frameworks and tools for open web
 
 * **[Aurelia](http://www.aurelia.io/)** is a next generation Single Page Application (SPA) platform. It is the successor to DurandalJS 2.x and is written from the ground up for the modern web. *If you are starting work on a new application, this is the framework you want to use.* More information can be found on the [official web site](http://www.aurelia.io/) or at the [GitHub Organization](https://github.com/aurelia). If you have questions, we invite you to join us on [our Gitter Channel](https://gitter.im/aurelia/discuss).
 
-> To keep up to date on Aurelia, please visit and subscribe to [the official blog](http://blog.aurelia.io/).
+> To keep up to date on [Aurelia](http://www.aurelia.io/), please visit and subscribe to [the official blog](http://blog.aurelia.io/) and [our email list](http://eepurl.com/ces50j). We also invite you to [follow us on twitter](https://twitter.com/aureliaeffect). If you have questions, please [join our community on Gitter](https://gitter.im/aurelia/discuss) or use [stack overflow](http://stackoverflow.com/search?q=aurelia). Documentation can be found [in our developer hub](http://aurelia.io/hub.html). If you would like to have deeper insight into our development process, please install the [ZenHub](https://zenhub.io) Chrome or Firefox Extension and visit any of our repository's boards.
 
 ## Resources
 
