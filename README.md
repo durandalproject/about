@@ -24,7 +24,7 @@ Blue Spire Inc. owes much thanks to a great host of other projects and developer
 * [Polymer](https://www.polymer-project.org/)
 * [Caliburn.Micro](http://caliburnmicro.com/)
 * [NodeJS](http://nodejs.org/)
-* [6to5](https://6to5.github.io/)
+* [Babel](https://babeljs.io)
 * [Tracuer](https://github.com/google/traceur-compiler)
 * [JSPM/SystemJS](http://jspm.io/)
 * [Jasmine](http://jasmine.github.io/)
