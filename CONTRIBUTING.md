@@ -10,6 +10,7 @@ We'd love for you to contribute to our source code and to make our projects even
  - [Coding Rules](#rules)
  - [Commit Message Guidelines](#commit)
  - [Signing the CLA](#cla)
+ - [Joining the Core Team](#core-team)
 
 ## <a name="coc"></a> Code of Conduct
 
@@ -55,6 +56,7 @@ chances of your issue being dealt with quickly:
 * **Suggest a Fix** - If you can't fix the bug yourself, perhaps you can point to what might be causing the problem (line of code or commit).
 
 ### Submitting a Pull Request
+
 Before you submit your pull request consider the following guidelines:
 
 * Search the appropriate GitHub Repository for an open or closed Pull Request that relates to your submission. You don't want to duplicate effort.
@@ -130,6 +132,7 @@ from the main (upstream) repository:
     ```
 
 ## <a name="rules"></a> Coding Rules
+
 To ensure consistency throughout the source code, keep these rules in mind as you are working:
 
 * All features or bug fixes **must be tested** by one or more specs.
@@ -143,6 +146,7 @@ readable messages** that are easy to follow when looking through the **project h
 we use the git commit messages to **generate the change log**.
 
 ### Commit Message Format
+
 Each commit message consists of a **header**, a **body** and a **footer**.  The header has a special
 format that includes a **type**, a **scope** and a **subject**:
 
@@ -156,7 +160,7 @@ format that includes a **type**, a **scope** and a **subject**:
 
 The subject line of the commit message cannot be longer 100 characters. This allows the message to be easier to read on GitHub as well as in various git tools.
 
-### Type
+#### Type
 
 Please use one of the following:
 
@@ -171,11 +175,11 @@ Please use one of the following:
 * **chore**: Changes to the build process or auxiliary tools and libraries such as documentation
   generation
 
-### Scope
+#### Scope
 
 The scope could be anything specifying the location of the commit change. For example `view-compiler` or `logger`.
 
-### Subject
+#### Subject
 
 The subject contains a succinct description of the change:
 
@@ -183,7 +187,7 @@ The subject contains a succinct description of the change:
 * Don't capitalize the first letter.
 * Do not add a dot (.) at the end.
 
-###Body
+#### Body
 
 The body should include the motivation for the change and contrast this with previous behavior.
 
@@ -197,3 +201,7 @@ Please sign our Contributor License Agreement (CLA) before sending pull requests
 
 
 > Note: This document is based on the AngularJS Contributor doc. Thanks to that team for putting it together.
+
+## <a name="core-team"></a> Joining the Core Team
+
+[The Aurelia Core Team](https://github.com/orgs/aurelia/people) is made up of select community members who are committed to maintaining and evolving Aurelia over the long-term. The team may grow or shrink depending on project needs, member availability, and other factors. Core team members are typically long-time Aurelia community members who have shown enthusiasm while taking initiative to improve Aurelia in various ways, including fixing bugs, implementing features, writing documentation/books/blogs, triaging issues, and more. Each member has shown a consistency of quality and cadence in their contributions. If you are interested in joining the core team, please reach out to aurelia-team@bluespire.com. We'd be happy to discuss opportunities with you.
